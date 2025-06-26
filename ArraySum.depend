@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1750516188 source:e:\workplace\c++\arraysum\main.c
+	<stdio.h>
+	<stdlib.h>
+
